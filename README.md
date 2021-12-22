@@ -61,13 +61,18 @@
 ```
 
 ## Only one model is needed for the project, you can call it SlurpOffer. It must have the following fields:
+# Profile
 ```
-♬  company_name  
-♫  company_email  
-♩  job_title
-♪  job_description
-♬  fee  
-♫  city  
+♬  user
+♫  bio
+♩  city
+♪  avatar
+```
+
+# ProfileStatus
+```
+♬  user_profile
+♫  status_content
 ♩  created_at
-♪  available
+♪  updated_at
 ```
