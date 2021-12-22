@@ -60,8 +60,8 @@
          \_____ requirements.py       
 ```
 
-## Only one model is needed for the project, you can call it SlurpOffer. It must have the following fields:
-# Profile
+## Only one model is needed for the project, you can call it Profile & ProfileStatus. It must have the following fields:
+### Profile
 ```
 ♬  user
 ♫  bio
@@ -69,7 +69,7 @@
 ♪  avatar
 ```
 
-# ProfileStatus
+### ProfileStatus
 ```
 ♬  user_profile
 ♫  status_content
